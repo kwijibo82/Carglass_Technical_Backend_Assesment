@@ -1,0 +1,712 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Carglass_Assesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.api\\carglass.technicalassesment.backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|solutionrelative:carglass.technicalassesment.backend.api\\carglass.technicalassesment.backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CFEFFA-161E-47D9-A843-A099C341332B}|Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.test\\services\\productoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CFEFFA-161E-47D9-A843-A099C341332B}|Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj|solutionrelative:carglass.technicalassesment.backend.test\\services\\productoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CFEFFA-161E-47D9-A843-A099C341332B}|Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.test\\services\\clientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CFEFFA-161E-47D9-A843-A099C341332B}|Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj|solutionrelative:carglass.technicalassesment.backend.test\\services\\clientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CFEFFA-161E-47D9-A843-A099C341332B}|Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.test\\repositories\\productorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CFEFFA-161E-47D9-A843-A099C341332B}|Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj|solutionrelative:carglass.technicalassesment.backend.test\\repositories\\productorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CFEFFA-161E-47D9-A843-A099C341332B}|Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.test\\repositories\\clientrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CFEFFA-161E-47D9-A843-A099C341332B}|Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj|solutionrelative:carglass.technicalassesment.backend.test\\repositories\\clientrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6744C5CB-3732-4241-9014-3AE131AE544D}|Carglass.TechnicalAssesment.Backend.Entities\\Carglass.TechnicalAssesment.Backend.Entities.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.entities\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6744C5CB-3732-4241-9014-3AE131AE544D}|Carglass.TechnicalAssesment.Backend.Entities\\Carglass.TechnicalAssesment.Backend.Entities.csproj|solutionrelative:carglass.technicalassesment.backend.entities\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6744C5CB-3732-4241-9014-3AE131AE544D}|Carglass.TechnicalAssesment.Backend.Entities\\Carglass.TechnicalAssesment.Backend.Entities.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.entities\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6744C5CB-3732-4241-9014-3AE131AE544D}|Carglass.TechnicalAssesment.Backend.Entities\\Carglass.TechnicalAssesment.Backend.Entities.csproj|solutionrelative:carglass.technicalassesment.backend.entities\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\validators\\createclientdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\validators\\createclientdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\validators\\createproductodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\validators\\createproductodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\validators\\clientdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\validators\\clientdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\products\\updateproductodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\products\\updateproductodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\products\\updateproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\products\\updateproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\products\\productordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\products\\productordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\products\\createproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\products\\createproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\clients\\clientputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\clients\\clientputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\clients\\clientpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\clients\\clientpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\clients\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\clients\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dl\\dlmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|solutionrelative:carglass.technicalassesment.backend.dl\\dlmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dl\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|solutionrelative:carglass.technicalassesment.backend.dl\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dl\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|solutionrelative:carglass.technicalassesment.backend.dl\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dl\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|solutionrelative:carglass.technicalassesment.backend.dl\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dl\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|solutionrelative:carglass.technicalassesment.backend.dl\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.bl\\productos\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|solutionrelative:carglass.technicalassesment.backend.bl\\productos\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.bl\\productos\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|solutionrelative:carglass.technicalassesment.backend.bl\\productos\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.bl\\clients\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|solutionrelative:carglass.technicalassesment.backend.bl\\clients\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.bl\\clients\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|solutionrelative:carglass.technicalassesment.backend.bl\\clients\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.bl\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|solutionrelative:carglass.technicalassesment.backend.bl\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|solutionrelative:carglass.technicalassesment.backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.bl\\blmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|solutionrelative:carglass.technicalassesment.backend.bl\\blmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|solutionrelative:carglass.technicalassesment.backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|solutionrelative:carglass.technicalassesment.backend.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.api\\controllers\\healthcheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|solutionrelative:carglass.technicalassesment.backend.api\\controllers\\healthcheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22D49EB-3E97-4140-88B2-32AA7FAB8012}|Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj|solutionrelative:carglass.technicalassesment.backend.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CFEFFA-161E-47D9-A843-A099C341332B}|Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.test\\carglass.technicalassesment.backend.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1CFEFFA-161E-47D9-A843-A099C341332B}|Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj|solutionrelative:carglass.technicalassesment.backend.test\\carglass.technicalassesment.backend.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.bl\\carglass.technicalassesment.backend.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1477001-F901-44D2-A443-B4A1B9151489}|Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj|solutionrelative:carglass.technicalassesment.backend.bl\\carglass.technicalassesment.backend.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dl\\carglass.technicalassesment.backend.dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|solutionrelative:carglass.technicalassesment.backend.dl\\carglass.technicalassesment.backend.dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6744C5CB-3732-4241-9014-3AE131AE544D}|Carglass.TechnicalAssesment.Backend.Entities\\Carglass.TechnicalAssesment.Backend.Entities.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.entities\\carglass.technicalassesment.backend.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6744C5CB-3732-4241-9014-3AE131AE544D}|Carglass.TechnicalAssesment.Backend.Entities\\Carglass.TechnicalAssesment.Backend.Entities.csproj|solutionrelative:carglass.technicalassesment.backend.entities\\carglass.technicalassesment.backend.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dl\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8579ADC-D470-4824-90C8-068B5C6844A3}|Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj|solutionrelative:carglass.technicalassesment.backend.dl\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\carglass.technicalassesment.backend.dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\carglass.technicalassesment.backend.dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jmorac\\AppData\\Local\\SourceServer\\281a6ac9251df003af79e83ba4e0076be30b7f51337ab47d5a7d57e1939437d5\\Carglass.TechnicalAssesment.Backend.BL\\Productos\\ProductoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|c:\\projects\\carglass_assesment\\carglass.technicalassesment.backend.dtos\\paginators\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23371933-171C-486D-A570-F46C7F619FAF}|Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj|solutionrelative:carglass.technicalassesment.backend.dtos\\paginators\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 41,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Entities\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Entities\\Entities\\Client.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Entities\\Entities\\Client.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Entities\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:34:23.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductorDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Products\\ProductorDto.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Products\\ProductorDto.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Products\\ProductorDto.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Products\\ProductorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:33:58.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateProductoDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Products\\CreateProductoDto.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Products\\CreateProductoDto.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Products\\CreateProductoDto.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Products\\CreateProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:33:56.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientPutDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientPutDto.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientPutDto.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientPutDto.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientPutDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:33:38.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientPostDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientPostDto.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientPostDto.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientPostDto.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientPostDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:33:36.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientDto.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientDto.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientDto.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Clients\\ClientDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:33:33.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Entities\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Entities\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Entities\\Entities\\Producto.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Entities\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:54:36.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\jmorac\\AppData\\Local\\SourceServer\\281a6ac9251df003af79e83ba4e0076be30b7f51337ab47d5a7d57e1939437d5\\Carglass.TechnicalAssesment.Backend.BL\\Productos\\ProductoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\jmorac\\AppData\\Local\\SourceServer\\281a6ac9251df003af79e83ba4e0076be30b7f51337ab47d5a7d57e1939437d5\\Carglass.TechnicalAssesment.Backend.BL\\Productos\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\jmorac\\AppData\\Local\\SourceServer\\281a6ac9251df003af79e83ba4e0076be30b7f51337ab47d5a7d57e1939437d5\\Carglass.TechnicalAssesment.Backend.BL\\Productos\\ProductoService.cs",
+              "RelativeToolTip": "..\\..\\Users\\jmorac\\AppData\\Local\\SourceServer\\281a6ac9251df003af79e83ba4e0076be30b7f51337ab47d5a7d57e1939437d5\\Carglass.TechnicalAssesment.Backend.BL\\Productos\\ProductoService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:07:38.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientServiceTests.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Test\\Services\\ClientServiceTests.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Test\\Services\\ClientServiceTests.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Test\\Services\\ClientServiceTests.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Test\\Services\\ClientServiceTests.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:52:55.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.BL\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.BL\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:48:29.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoServiceTests.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Test\\Services\\ProductoServiceTests.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Test\\Services\\ProductoServiceTests.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Test\\Services\\ProductoServiceTests.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Test\\Services\\ProductoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:45:45.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Test\\Repositories\\ProductoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Test\\Repositories\\ProductoRepositoryTests.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Test\\Repositories\\ProductoRepositoryTests.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Test\\Repositories\\ProductoRepositoryTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:40:15.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Test\\Repositories\\ClientRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Test\\Repositories\\ClientRepositoryTests.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Test\\Repositories\\ClientRepositoryTests.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Test\\Repositories\\ClientRepositoryTests.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAAOsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:07:04.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Carglass.TechnicalAssesment.Backend.Test.csproj",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Test\\Carglass.TechnicalAssesment.Backend.Test.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T20:01:49.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Productos\\IProductoService.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.BL\\Productos\\IProductoService.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Productos\\IProductoService.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.BL\\Productos\\IProductoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:15:31.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Clients\\IClientService.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.BL\\Clients\\IClientService.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Clients\\IClientService.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.BL\\Clients\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:15:18.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BLModule.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\BLModule.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.BL\\BLModule.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\BLModule.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.BL\\BLModule.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:51:49.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\Repositories\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.DL\\Repositories\\IProductoRepository.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\Repositories\\IProductoRepository.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.DL\\Repositories\\IProductoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvwgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:10.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.DL\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.DL\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:04.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.DL\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.DL\\Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:01:31.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PagedResultDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Paginators\\PagedResultDto.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Paginators\\PagedResultDto.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Paginators\\PagedResultDto.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Paginators\\PagedResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:01:17.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.DL\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.DL\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAgwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:54:37.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Clients\\ClientService.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.BL\\Clients\\ClientService.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Clients\\ClientService.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.BL\\Clients\\ClientService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:46:50.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductoDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\CreateProductoDtoValidator.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\CreateProductoDtoValidator.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\CreateProductoDtoValidator.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\CreateProductoDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:43:58.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\ClientDtoValidator.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\ClientDtoValidator.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\ClientDtoValidator.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\ClientDtoValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:43:43.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateClientDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\CreateClientDtoValidator.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\CreateClientDtoValidator.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\CreateClientDtoValidator.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Validators\\CreateClientDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:41:32.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Api\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Api\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAuwDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:02:15.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HealthCheckController.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\Controllers\\HealthCheckController.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Api\\Controllers\\HealthCheckController.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\Controllers\\HealthCheckController.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Api\\Controllers\\HealthCheckController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:00:44.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProductoDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Products\\UpdateProductoDtoValidator.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Products\\UpdateProductoDtoValidator.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Products\\UpdateProductoDtoValidator.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Products\\UpdateProductoDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:55:57.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateProductoDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Products\\UpdateProductoDto.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Products\\UpdateProductoDto.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Products\\UpdateProductoDto.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Products\\UpdateProductoDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:53:25.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Productos\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.BL\\Productos\\ProductoService.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Productos\\ProductoService.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.BL\\Productos\\ProductoService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:47:20.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\Program.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Api\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:44:34.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Api\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Api\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:39:13.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Carglass.TechnicalAssesment.Backend.DL.csproj",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.DL\\Carglass.TechnicalAssesment.Backend.DL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T15:24:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.DL\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.DL\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:25:10.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DLModule.cs",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\DLModule.cs",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.DL\\DLModule.cs",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.DL\\DLModule.cs",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.DL\\DLModule.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:24:14.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Api\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\appsettings.json",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T14:37:10.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Carglass.TechnicalAssesment.Backend.Entities.csproj",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Entities\\Carglass.TechnicalAssesment.Backend.Entities.csproj",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Entities\\Carglass.TechnicalAssesment.Backend.Entities.csproj",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Entities\\Carglass.TechnicalAssesment.Backend.Entities.csproj",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Entities\\Carglass.TechnicalAssesment.Backend.Entities.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T14:06:28.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Carglass.TechnicalAssesment.Backend.Dtos.csproj",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Dtos\\Carglass.TechnicalAssesment.Backend.Dtos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T14:06:24.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Carglass.TechnicalAssesment.Backend.BL.csproj",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.BL\\Carglass.TechnicalAssesment.Backend.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T14:06:17.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carglass.TechnicalAssesment.Backend.Api.csproj",
+              "DocumentMoniker": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj",
+              "RelativeDocumentMoniker": "Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj",
+              "ToolTip": "C:\\Projects\\Carglass_Assesment\\Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj",
+              "RelativeToolTip": "Carglass.TechnicalAssesment.Backend.Api\\Carglass.TechnicalAssesment.Backend.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T14:06:09.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
